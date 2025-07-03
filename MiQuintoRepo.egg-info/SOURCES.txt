@@ -1,0 +1,7 @@
+README.md
+setup.py
+MiQuintoRepo/__init__.py
+MiQuintoRepo.egg-info/PKG-INFO
+MiQuintoRepo.egg-info/SOURCES.txt
+MiQuintoRepo.egg-info/dependency_links.txt
+MiQuintoRepo.egg-info/top_level.txt
